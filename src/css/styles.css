@@ -1,0 +1,12 @@
+img {
+    width: 250px;
+    height: 200px;
+}
+
+.image-div {
+    width: 250px;
+    height: 200px;
+    background-image: url('/images/dog.jpg');
+    background-size: cover;
+    background-repeat: no repeat;
+}
